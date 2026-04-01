@@ -1,25 +1,63 @@
-<h1>Hi, I'm Cortney!  <a href="https://www.linkedin.com/in/cortneywarren/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@CyberCort2050">YouTuber</a></h1>
+<h1>
+  Hi, I'm Cortney!
+  <a href="https://www.linkedin.com/in/cortneywarren/">Cybersecurity Professional</a>,
+  <a href="https://www.youtube.com/@CyberCort2050">YouTuber</a>
+</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<p>
+  I’m building hands-on experience in Cybersecurity Governance, Risk, and Compliance (GRC),
+  with a focus on risk assessments, audit support, PCI-DSS, NIST, and ISO 27001.
+</p>
 
-- <b>PCI DSS Audit Workbook</b>
-  - Building a PCI-DSS Audit Workbook (https://github.com/cwarrenhub
-  
 <h2>📜 Certifications</h2>
 
-<a href="./GRCMastery_Badge20251112-32-t79p4k.pdf">📄 View GRC Certification</a>
+<ul>
+  <li>
+    <b>GRC Mastery Certification</b><br>
+    <a href="./GRCMastery_Badge20251112-32-t79p4k.pdf">📄 View Certificate</a>
+  </li>
+</ul>
+
+<h2>🔐 Cybersecurity Projects</h2>
+
+<ul>
+  <li>
+    <b>PCI-DSS Audit Workbook</b><br>
+    Building a practical PCI-DSS audit workbook focused on control testing, evidence review, findings, and remediation tracking.
+  </li>
+  <li>
+    <b>Risk Assessment Labs</b><br>
+    Creating mock company risk assessments using NIST and ISO 27001 concepts, including risk registers, heat maps, and treatment plans.
+  </li>
+  <li>
+    <b>Incident Response Planning</b><br>
+    Developing and reviewing incident response documentation aligned to common security and compliance frameworks.
+  </li>
+</ul>
+
+<h2>🧠 Current Focus</h2>
+
+<ul>
+  <li>Governance, Risk, and Compliance (GRC)</li>
+  <li>PCI-DSS audit readiness</li>
+  <li>NIST-based risk assessments</li>
+  <li>ISO 27001 control understanding</li>
+  <li>Cybersecurity portfolio development</li>
+</ul>
 
 <h2>📺 Popular YouTube Videos</h2>
-- Reviewing my PCI-DSS Audit Workbook Lab] 
 
+<ul>
+  <li>Reviewing my PCI-DSS Audit Workbook Lab</li>
+  <li>Cybersecurity learning journey and portfolio build-out</li>
+</ul>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤝 Connect With Me</h2>
 
-[<img align="left" alt="Cybercort | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="CortneyWarren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-https://www.youtube.com/@CyberCort2050 
-https://www.linkedin.com/in/cortneywarren/
-
+<p>
+  <a href="https://www.youtube.com/@CyberCort2050">YouTube</a><br>
+  <a href="https://www.linkedin.com/in/cortneywarren/">LinkedIn</a>
+</p>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
