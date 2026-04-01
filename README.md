@@ -25,8 +25,8 @@
 
 <ul>
   <li>
-    <b>PCI-DSS Audit Workbook</b><br>
-    Building a practical PCI-DSS audit workbook focused on control testing, evidence review, findings, and remediation tracking.
+<b>PCI-DSS Audit Workbook (AuroraPay)</b><br>
+    <a href="./labs/pci-dss-audit-workbook.xlsx">📊 View Lab</a> 
   </li>
   <li>
     <b>Risk Assessment Labs</b><br>
