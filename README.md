@@ -19,6 +19,8 @@
 </ul>
   <b>ISO-27001-lead-auditor</b><br>
   <a href="./certifications/iso-27001-lead-auditor.pdf">📄 View Certificate</a>
+
+  
 <h2>🔐 Cybersecurity Projects</h2>
 
 <ul>
