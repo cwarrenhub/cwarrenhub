@@ -5,9 +5,9 @@
 - <b>PCI DSS Audit Workbook</b>
   - Building a PCI-DSS Audit Workbook (https://github.com/cwarrenhub
   
-<h2> Certifications </h2>
-<a href="certifications/GRCMastery_Badge20251112-32-t79p4k.pdf">📄 View GRC Certification</a>
-https://github.com/cwarrenhub/cwarrenhub/blob/main/GRCMastery_Badge20251112-32-t79p4k.pdf#:~:text=t-,GRCMastery_Badge20251112,-%2D32%2Dt79p4k.pdf
+<h2>📜 Certifications</h2>
+
+<a href="./GRCMastery_Badge20251112-32-t79p4k.pdf">📄 View GRC Certification</a>
 
 <h2>📺 Popular YouTube Videos</h2>
 - Reviewing my PCI-DSS Audit Workbook Lab] 
