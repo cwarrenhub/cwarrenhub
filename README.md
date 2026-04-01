@@ -17,7 +17,8 @@
     <a href="./GRCMastery_Badge20251112-32-t79p4k.pdf">📄 View Certificate</a>
   </li>
 </ul>
-
+  <b>ISO-27001-lead-auditor</b><br>
+  <a href="./certifications/iso-27001-lead-auditor.pdf">📄 View Certificate</a>
 <h2>🔐 Cybersecurity Projects</h2>
 
 <ul>
